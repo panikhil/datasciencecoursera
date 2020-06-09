@@ -1,11 +1,9 @@
 ---
-title: "Untitled"
-author: "Nikhl"
-date: "09/06/2020"
-output: pdf_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 
 
-## R Markdown
- ## This is a markdown file
+## This is a markdown file
